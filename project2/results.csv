@@ -1,0 +1,7 @@
+,Runtime (ms),Runtime (ms),Runtime (ms),Runtime (ms),Runtime (ms),Runtime (ms),Runtime (ms),Runtime (ms),Runtime (ms),Runtime (ms)
+Problem,Fibonacci,Fibonacci,Fibonacci,Fibonacci,Fibonacci,Opt. Matrix Chain Multi,Opt. Matrix Chain Multi,Opt. Matrix Chain Multi,Opt. Matrix Chain Multi,Opt. Matrix Chain Multi
+Input,30th fibonacci,35th fibonacci,40th fibonacci,45th fibonacci,51th fibonacci,10 matricies,15 matricies,17 matricies,20 matricies,22 matricies
+Algorithm,,,,,,,,,,
+Recursive,191.066,"2,197.958","23,515.467","262,304.613","4,698,324.234",5.415,"1,251.426","11,048.110","308,367.798","2,726,292.455"
+Memoized Top Down,0.012,0.004,0.005,0.022,0.039,0.144,0.408,0.532,0.854,1.278
+Bottom Up,0.005,0.007,0.008,0.008,0.014,0.072,0.155,0.208,0.326,0.454

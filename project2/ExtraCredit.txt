@@ -1,0 +1,3 @@
+No.          Problem              Algorithm      Input                       Elapsed time
+ 1.         Fibonacci             Bottom Up      100,000th fibonacci           241.230 ms
+ 2.         Fibonacci         Memoized Top Down  10,000th fibonacci              0.006 ms
